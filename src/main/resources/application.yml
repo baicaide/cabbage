@@ -1,0 +1,6 @@
+server:
+  port: 8080
+  contextPath: /aaa
+spring:
+  application:
+    name: alex-test
